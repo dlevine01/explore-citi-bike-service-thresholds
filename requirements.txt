@@ -1,0 +1,14 @@
+altair==5.1
+folium==0.14
+geopandas==0.14
+libpysal==4.7
+mapclassify
+matplotlib
+numpy==1.26
+pandas==2.1
+scipy==1.11
+shapely==2.0
+streamlit==1.27
+streamlit-folium==0.14
+concave-hull==0.0.6
+contextily==1.5
